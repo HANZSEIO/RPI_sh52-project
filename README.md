@@ -116,6 +116,3 @@ RPI/
 IoT & Embedded System Enthusiast
 </p>
 
-<p align="center">
-  <i>"Kalau bisa di-remote, kenapa harus berdiri."</i>
-</p>
