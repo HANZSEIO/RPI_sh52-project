@@ -1,4 +1,4 @@
-<h1 align="center">🔌 ESP8266 MQTT Smart Relay</h1>
+<h1 align="center"> ESP8266 MQTT Smart Relay</h1>
 
 <p align="center">
   <b>IoT Smart Home Project using ESP8266, MQTT, and PlatformIO</b><br>
